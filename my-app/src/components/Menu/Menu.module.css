@@ -1,0 +1,15 @@
+.menu {
+  display: flex;
+}
+
+.link {
+  padding: 16px 24px;
+}
+
+.link  {
+  color: black;
+}
+
+.link :hover {
+  color: blue;
+}
